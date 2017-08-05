@@ -1,7 +1,5 @@
 # Dracula for [base16](https://github.com/chriskempson/base16)
 
-# base16-dracula-scheme
-
 ![Screenshot](colors.png)
 
 ## Team
