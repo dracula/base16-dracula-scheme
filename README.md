@@ -1,6 +1,8 @@
-# Dracula for [base16](https://github.com/chriskempson/base16)
+# Dracula for [Base16](http://chriskempson.com/projects/base16/)
 
-![Screenshot](colors.png)
+> A dark theme for [Base16](http://chriskempson.com/projects/base16/)
+
+![Screenshot](https://draculatheme.com/assets/img/screenshots/base16.png)
 
 ## Team
 
