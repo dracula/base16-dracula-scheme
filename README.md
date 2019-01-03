@@ -2,7 +2,7 @@
 
 > A dark theme for [Base16](http://chriskempson.com/projects/base16/)
 
-![Screenshot](https://draculatheme.com/assets/img/screenshots/base16.png)
+![Screenshot](colortest.png)
 
 ## Team
 
