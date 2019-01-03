@@ -1,18 +1,18 @@
 scheme: 'Dracula'
 author: 'Mike Barkmin (http://github.com/mikebarkmin) based on Dracula Theme (http://github.com/dracula)'
-base00: '#282A36' # Background
-base01: '#343746' # Lighter Background
-base02: '#44475A' # Selection Background
-base03: '#6272A4' # Comments
-base04: '#A4FFFF' # Dark Foreground (status bars)
-base05: '#F8F8F2' # Default Foreground, Caret, Delimiters, Operators
-base06: '#F8F8F2' # Light Foreground
-base07: '#F8F8F2' # Light Background
-base08: '#FF79C6' # Variables, XML Tags, Markup Link Text, Markup Lists, Diff Deleted
-base09: '#BD93F9' # Integers, Boolean, Constants, XML Attributes, Markup Link Url
-base0A: '#50FA7B' # Classes, Markup Bold, Search Text Background
-base0B: '#F1FA8C' # Strings, Inherited Class, Markup Code, Diff Inserted
-base0C: '#8BE9FD' # Support, Regular Expressions, Escape Character, Markup Quotes
-base0D: '#D6ACFF' # Functions, Methods, Attribute IDs, Headings
-base0E: '#FF92DF' # Keywors, Storage, Selector, Markup Italic, Diff Changed
-base0F: '#FF6E6E' # Deprecated, Opening/Closing Embedded Language Tags
+base00: '282A36' # Background
+base01: '343746' # Lighter Background
+base02: '44475A' # Selection Background
+base03: '6272A4' # Comments
+base04: 'A4FFFF' # Dark Foreground (status bars)
+base05: 'F8F8F2' # Default Foreground, Caret, Delimiters, Operators
+base06: 'F8F8F2' # Light Foreground
+base07: 'F8F8F2' # Light Background
+base08: 'FF79C6' # Variables, XML Tags, Markup Link Text, Markup Lists, Diff Deleted
+base09: 'BD93F9' # Integers, Boolean, Constants, XML Attributes, Markup Link Url
+base0A: '50FA7B' # Classes, Markup Bold, Search Text Background
+base0B: 'F1FA8C' # Strings, Inherited Class, Markup Code, Diff Inserted
+base0C: '8BE9FD' # Support, Regular Expressions, Escape Character, Markup Quotes
+base0D: 'D6ACFF' # Functions, Methods, Attribute IDs, Headings
+base0E: 'FF92DF' # Keywors, Storage, Selector, Markup Italic, Diff Changed
+base0F: 'FF6E6E' # Deprecated, Opening/Closing Embedded Language Tags
