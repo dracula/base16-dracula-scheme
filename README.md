@@ -1,6 +1,6 @@
-# Dracula for [Base16](http://chriskempson.com/projects/base16/)
+# Dracula for [Base16](https://github.com/chriskempson/base16)
 
-> A dark theme for [Base16](http://chriskempson.com/projects/base16/)
+> A dark theme for [Base16](https://github.com/chriskempson/base16)
 
 ![Screenshot](./screenshot.png)
 
